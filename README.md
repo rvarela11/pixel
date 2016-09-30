@@ -2,7 +2,7 @@ Object: Create your own windows paint
 
 Technologies used:
 
-HTML
-CSS
-JavaScript
-jQuery
+1. HTML
+2. CSS
+3. JavaScript
+4. jQuery
